@@ -95,9 +95,8 @@
   <!-- Developer & Hosting Tools -->
   <img src="https://www.kali.org/tools/code-oss/images/code-oss-logo.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://www.kali.org/tools/git/images/git-logo.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.kali.org/tools/git/images/git-logo.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/217753/github.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354512/vercel.svg" alt="Vercel" width="140" height="40"/>
+  <img src="https://www.hatimeria.com/images/marketing/vercel-logo.png" alt="Vercel" width="140" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" alt="Netlify" width="140" height="40"/>
 </p>
 

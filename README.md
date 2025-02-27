@@ -1,7 +1,10 @@
-<h1 align="center">Hello 👋, I'm Muhammad Suais Usmani</h1>
-<h3 align="center">A Penetration Tester & Full Stack Developer</h3>
+# Hello 👋, I'm Muhammad Sudais Usmani
 
-## Skills & Experience
+## 🛡️ Penetration Tester & Full Stack Developer
+
+---
+
+## 🚀 Skills & Experience
 
 ### 👨‍💻 Programming Languages & Frameworks
 - **Languages**: Python, JavaScript, C++, C#, PHP
@@ -31,12 +34,70 @@
 
 ---
 
-<h3 align="left">My Social Media Links :</h3>
+## 📜 Certifications
+- CEH | EHPT | Certified Cyber Security Professional
+- REMAC+ | ISO 27001 | CHFI | CCSP
+- CSI Linux Certified Investigator | C|OSINT | C|EDP
+
+---
+
+## 📊 GitHub Language Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dit-Developers&layout=compact&theme=radical)
+
+---
+
+## 🔗 Connect With Me
+
+<a href="https://linkedin.com/in/muhammad-sudais-usmani-950889311"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
+
+---
+
+## 🛠 Languages and Tools:
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-sudais-usmani-950889311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="freelancermijan" height="30" width="40" /></a>
+  <!-- Web Development -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/>
+  
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+
+  <!-- Operating Systems -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=512&id=sA3Bx9WPvcNg&format=png" alt="Parrot OS" width="40" height="40"/>
+
+  <!-- Cybersecurity & Pentesting Tools -->
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" width="40" height="40"/>
+  <img src="https://www.kali.org/tools/exploitdb/images/exploitdb-logo.svg" alt="Exploit-DB" height="40"/>
+  <img src="https://static.shodan.io/shodan-ds/img/logo.png" alt="Shodan" width="140" height="40"/>
+  <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark" width="40" height="40"/>
+  <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="Hashcat" width="40" height="40"/>
+  <img src="https://cdn.brandfetch.io/idHnSFcYKj/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Nmap" width="40" height="40"/>
+  <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" alt="OWASP ZAP" width="40" height="40"/>
+  <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="John the Ripper" width="40" height="40"/>
+
+  <!-- Cybersecurity Platforms -->
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/tryhackme-vpbxyth62mbot3imfcpb08.png/tryhackme-anodupj9mqt3ekhc90qmo9.png" alt="TryHackMe" width="40" height="40"/>
+  <img src="https://www.bugcrowd.com/wp-content/uploads/2023/08/Bugcrowd-Logo-Wordmark-5.svg" alt="BugCrowd" width="140" height="40"/>
+  <img src="https://www.hackerone.com/themes/hacker_one/images/branding/hackerone_logo_white.png" alt="HackerOne" width="140" height="40"/>
+
+  <!-- Developer & Hosting Tools -->
+  <img src="https://www.kali.org/tools/code-oss/images/code-oss-logo.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://www.kali.org/tools/git/images/git-logo.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.kali.org/tools/git/images/git-logo.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/217753/github.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354512/vercel.svg" alt="Vercel" width="140" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" alt="Netlify" width="140" height="40"/>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
 

@@ -79,14 +79,17 @@
 
   <!-- Cybersecurity & Pentesting Tools -->
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" width="40" height="40"/>
+  <img src="https://portswigger.net/burp/communitydownload/images/burp-pro-logo.svg" alt="BurpSuit Pro" width="180" height="40"/>
   <img src="https://www.kali.org/tools/exploitdb/images/exploitdb-logo.svg" alt="Exploit-DB" height="40"/>
   <img src="https://static.shodan.io/shodan-ds/img/logo.png" alt="Shodan" width="140" height="40"/>
   <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark" width="40" height="40"/>
+  <img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" alt="WpScan" width="40" height="40"/>
   <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="Hashcat" width="40" height="40"/>
   <img src="https://cdn.brandfetch.io/idHnSFcYKj/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Nmap" width="40" height="40"/>
   <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" alt="OWASP ZAP" width="40" height="40"/>
+  <img src="https://portswigger.net/burp/communitydownload/images/burp-comm-logo.svg" alt="BurpSuit Comunity" width="180" height="40"/>
   <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="John the Ripper" width="40" height="40"/>
-
+  
   <!-- Cybersecurity Platforms -->
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/tryhackme-vpbxyth62mbot3imfcpb08.png/tryhackme-anodupj9mqt3ekhc90qmo9.png" alt="TryHackMe" width="40" height="40"/>
   <img src="https://www.bugcrowd.com/wp-content/uploads/2023/08/Bugcrowd-Logo-Wordmark-5.svg" alt="BugCrowd" width="140" height="40"/>

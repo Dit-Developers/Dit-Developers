@@ -42,7 +42,7 @@
 ---
 
 ## 📊 GitHub Language Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dit-Developers&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dit-developers&layout=compact&theme=radical)
 
 ---
 

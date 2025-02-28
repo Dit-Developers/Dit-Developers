@@ -44,6 +44,9 @@
 ## 📊 GitHub Language Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dit-developers&layout=compact&theme=radical)
 
+## 📊 GitHub Stats
+![s](https://github-readme-stats.vercel.app/api?username=dit-developers&theme=radical)
+
 ---
 
 ## 🔗 Connect With Me

@@ -1,11 +1,15 @@
-# Hello 👋, I'm Muhammad Sudais Usmani
+# msu@root:~/etc/aboutme
 
-## 🛡️ Penetration Tester & Full Stack Developer
+## msu@root:~# `neofetch`
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=200&color=00FF00&center=true&vCenter=true&random=false&width=1000&lines=Muhammad+Sudais+Usmani | Ethical+Hacker;Malware+Developer;FullStack+Developer;Mobile+App+Developer;Bug+Hunter;Reverse+Engineer;Exploit+Developer;Pentester;Linux+Expert" alt="Typing SVG Sudais Intro Github" />
+</p>
 
-## 🚀 Skills & Experience
+## msu@root:~# `whoami`
+### Hello 👋, I'm Muhammad Sudais Usmani
 
+## msu@root:~# `ls --skills`
 ### 👨‍💻 Programming Languages & Frameworks
 - **Languages**: Python, JavaScript, C++, C#, PHP
 - **Web Development**: HTML, CSS, JavaScript, PHP, MySQL, React.js, Next.js
@@ -34,7 +38,25 @@
 
 ---
 
-## 📜 Certifications
+## msu@root:~# `ls projects`
+
+| 🗂 Repository                     | 📜 Description                                                | 🛠 Status |
+|----------------------------------|----------------------------------------------------------------|-----------|
+| **WebDevSec Pro+**               | CLI & Web-based tool for web security assessment              | 🔥 Ongoing |
+| **Pay4XSS**                      | Web vulnerability exploitation automation tool                 | 🔥 Ongoing |
+| **School Management System**     | PHP-based school management application                        | ✅ Done  |
+| **BugHunter Linux**              | Debian-based Linux distro for bug bounty hunting              | ✅ Done |
+| **WordPress Vulnerability Scanner** | Tool for detecting WordPress security flaws                  | ✅ Done |
+| **SecureCloud**                  | Cloud storage platform like Mega & Google Drive              | ✅ Done |
+| **Recharge System**              | User dashboard with wallet & payment integration             | ✅ Done |
+| **Custom Linux Kernel**          | Optimized Linux kernel for security research                 | ⏳ Planned |
+| **Advanced OSINT Framework**     | Next-gen Open Source Intelligence tool                        | ✅ Done |
+
+---
+
+---
+## msu@root:~# `ls --cert`
+### 📜 Certifications
 - CEH | EHPT | Certified Cyber Security Professional
 - REMAC+ | ISO 27001 | CHFI | CCSP
 - CSI Linux Certified Investigator | C|OSINT | C|EDP

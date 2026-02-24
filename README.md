@@ -254,18 +254,40 @@ CTF focus areas:
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dit-developers&theme=github_dark" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dit-developers&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=dit-developers&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dit-developers&theme=github_dark" alt="Top Languages"/>
-  <img width="49%" src="https://github-trophies.vercel.app/?username=dit-developers&theme=onestar&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dit-developers&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages"/>
+  <img width="49%" src="https://github-trophies.vercel.app/?username=dit-developers&theme=matrix&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dit-developers&bg_color=000000&color=39ff14&line=00ff00&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
+
+---
+
+## GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/dit-developers?achievement=yolo&tab=achievements">
+    <img src="https://img.shields.io/badge/Achievement-YOLO-39FF14?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117" alt="Achievement YOLO"/>
+  </a>
+  <a href="https://github.com/dit-developers?achievement=quickdraw&tab=achievements">
+    <img src="https://img.shields.io/badge/Achievement-Quickdraw-39FF14?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117" alt="Achievement Quickdraw"/>
+  </a>
+  <a href="https://github.com/dit-developers?achievement=pull-shark&tab=achievements">
+    <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-39FF14?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117" alt="Achievement Pull Shark"/>
+  </a>
+</p>
+
+| Achievement | Link |
+|---|---|
+| YOLO | https://github.com/dit-developers?achievement=yolo&tab=achievements |
+| Quickdraw | https://github.com/dit-developers?achievement=quickdraw&tab=achievements |
+| Pull Shark | https://github.com/dit-developers?achievement=pull-shark&tab=achievements |
 
 ---
 

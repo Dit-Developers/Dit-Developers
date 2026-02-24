@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=39FF14&center=true&vCenter=true&width=1200&lines=Offensive+Security+Engineer;Bug+Bounty+Hunter;Exploit+Developer;Security+Researcher;Cyber+Security+Analyst;MERN+Stack+Developer;Linux+Administrator;CTF+Player" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=39FF14&center=true&vCenter=true&width=1200&lines=Offensive+Security+Analyst;Bug+Bounty+Hunter;Exploit+Developer;Security+Researcher;Cyber+Security+Analyst;MERN+Stack+Developer;Linux+Administrator;CTF+Player" alt="Typing intro" />
 </div>
 
 <p align="center">
@@ -200,7 +200,31 @@ flowchart LR
 ## Development and Engineering Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,python,cpp,cs,php,linux,bash,docker,git,github,redis,mysql&perline=9" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,python,flask,django,fastapi,cpp,cs,php,linux,bash,docker,git,github,redis,mysql&perline=10" alt="skills"/>
+</p>
+
+### Python Ecosystem
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest"/>
+</p>
+
+### Security Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-0D1117?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal"/>
+  <img src="https://img.shields.io/badge/Shodan-0D1117?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/>
+  <img src="https://img.shields.io/badge/HackerOne-0D1117?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0D1117" alt="Hack The Box"/>
 </p>
 
 ### Development Focus

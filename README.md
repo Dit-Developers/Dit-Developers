@@ -254,13 +254,13 @@ CTF focus areas:
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dit-developers&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dit-developers&theme=github_dark" alt="GitHub Stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=dit-developers&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dit-developers&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=dit-developers&theme=matrix&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dit-developers&theme=github_dark" alt="Top Languages"/>
+  <img width="49%" src="https://github-trophies.vercel.app/?username=dit-developers&theme=onestar&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">

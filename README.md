@@ -1,130 +1,282 @@
-# msu@root:~/etc/aboutme
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Muhammad%20Sudais%20Usmani&fontSize=42&fontAlignY=40&color=0:001100,30:003300,70:00aa00,100:39ff14&fontColor=E8FFE8" alt="banner"/>
+</div>
 
-## msu@root:~# `neofetch`
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=39FF14&center=true&vCenter=true&width=1200&lines=Offensive+Security+Engineer;Bug+Bounty+Hunter;Exploit+Developer;Security+Researcher;Cyber+Security+Analyst;MERN+Stack+Developer;Linux+Administrator;CTF+Player" alt="Typing intro" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=200&color=00FF00&center=true&vCenter=true&random=false&width=1000&lines=Muhammad+Sudais+Usmani | Ethical+Hacker;Malware+Developer;FullStack+Developer;Mobile+App+Developer;Bug+Hunter;Reverse+Engineer;Exploit+Developer;Pentester;Linux+Expert" alt="Typing SVG Sudais Intro Github" />
+  <img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-ACTIVE-0D1117?style=for-the-badge&logo=hackthebox&logoColor=39FF14" alt="Offensive Security"/>
+  <img src="https://img.shields.io/badge/BBH-BUG_BOUNTY_HUNTER-0D1117?style=for-the-badge&logo=hackerone&logoColor=39FF14" alt="BBH"/>
+  <img src="https://img.shields.io/badge/EXPLOIT_DEVELOPMENT-RESEARCH-0D1117?style=for-the-badge&logo=gnubash&logoColor=39FF14" alt="Exploit Development"/>
+  <img src="https://img.shields.io/badge/SECURITY_RESEARCH-CONTINUOUS-0D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=39FF14" alt="Security Research"/>
 </p>
 
-## msu@root:~# `whoami`
-### Hello 👋, I'm Muhammad Sudais Usmani
-
-## msu@root:~# `ls --skills`
-### 👨‍💻 Programming Languages & Frameworks
-- **Languages**: Python, JavaScript, C++, C#, PHP
-- **Web Development**: HTML, CSS, JavaScript, PHP, MySQL, React.js, Next.js
-
-### 💻 Operating Systems
-- Linux OS, Windows OS, Kali OS, Ubuntu OS, Parrot OS
-
-### 🛠️ Technical Skills
-- **Cyber Security**: Ethical Hacking, Cyber Security, Networking, Web Pentesting
-- **Advanced Skills**: Website Penetration Testing, Steganography, Website Development
-
-### 🔎 Cybersecurity Platforms
-- **Platforms**: TryHackMe, HostDis, WebPentest, HTTPS & Headers, CSP, Hacker1, BugCrowd
-
-### 🔥 Tools by Category
-- **Exploitation**: Metasploit, Exploit-DB, Exploit4Hacker
-- **Information Gathering**: Osint.Industries, IP Set, Shodan, Censys, ZoomEye, SpiderFoot
-- **Web Penetration Testing**: ZAP, GoBuster, SQLMap, WebTech, Sublist3r, DirSearch
-- **Forensics**: Wireshark, Autopsy, ExifTool, Guymanager, VirusTotal
-- **CMS Testing**: WpScan, Wappalyzer, cms-explorer, JoomScan
-- **Cracking Tools**: Hydra, Admin-Brute, HashCat, John the Ripper
-- **Social Engineering**: GoPhish, Zphisher, SET, SocialEngineer, NumPy
-- **Security Tools**: Nessus, Stegno, ImageExtractor, Text Cipher, SSL
-- **Developer Tools**: VS Code, Node.js, Visual Studio Code, Web2Apk (Pro)
-- **Web Hosting**: Vercel, Netlify, GitHub, 000webhost
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dit-developers&style=for-the-badge&color=39ff14" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/dit-developers?style=for-the-badge&color=39ff14&labelColor=0D1117" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/dit-developers?style=for-the-badge&color=39ff14&labelColor=0D1117" alt="stars"/>
+</p>
 
 ---
 
-## msu@root:~# `ls projects`
+## root@msu:~# whoami
 
-| 🗂 Repository                     | 📜 Description                                                | 🛠 Status |
-|----------------------------------|----------------------------------------------------------------|-----------|
-| **WebDevSec Pro+**               | CLI & Web-based tool for web security assessment              | 🔥 Ongoing |
-| **Pay4XSS**                      | Web vulnerability exploitation automation tool                 | 🔥 Ongoing |
-| **School Management System**     | PHP-based school management application                        | ✅ Done  |
-| **BugHunter Linux**              | Debian-based Linux distro for bug bounty hunting              | ✅ Done |
-| **WordPress Vulnerability Scanner** | Tool for detecting WordPress security flaws                  | ✅ Done |
-| **SecureCloud**                  | Cloud storage platform like Mega & Google Drive              | ✅ Done |
-| **Recharge System**              | User dashboard with wallet & payment integration             | ✅ Done |
-| **Custom Linux Kernel**          | Optimized Linux kernel for security research                 | ⏳ Planned |
-| **Advanced OSINT Framework**     | Next-gen Open Source Intelligence tool                        | ✅ Done |
+```bash
+msu@root:~$ id
+name: Muhammad Sudais Usmani
+focus: Offensive Security, Bug Bounty Hunting (BBH), Exploit Development, Security Research
+mission: Build, break, validate, and secure real-world systems
+method: Attacker mindset + engineering discipline + practical remediation
+```
+
+I work at the intersection of offensive security and software engineering. My approach is to simulate realistic adversarial behavior, verify exploitability with technical depth, and deliver remediation guidance that engineering teams can apply quickly.
 
 ---
 
----
-## msu@root:~# `ls --cert`
-### 📜 Certifications
-- CEH | EHPT | Certified Cyber Security Professional
-- REMAC+ | ISO 27001 | CHFI | CCSP
-- CSI Linux Certified Investigator | C|OSINT | C|EDP
+## Role Matrix
+
+| Role | What I Do | Primary Outputs |
+|---|---|---|
+| Offensive Security Engineer | Conduct offensive assessments against applications, services, and infrastructure | Attack surface reports, validated findings, risk-ranked remediation |
+| Bug Bounty Hunter (BBH) | Hunt real-world vulnerabilities across in-scope targets with responsible disclosure | Accepted reports, impact PoCs, secure remediation recommendations |
+| Exploit Developer | Build proof-of-concepts and exploit chains for confirmed vulnerabilities | Exploit PoCs, reproducible test cases, impact demonstrations |
+| Security Researcher | Investigate vulnerability classes, tooling, and offensive techniques | Research notes, custom scripts, technical write-ups |
+| Cyber Security Analyst | Analyze threats, suspicious behavior, and defensive gaps | Incident notes, detection recommendations, hardening controls |
+| MERN Stack Developer | Design and build full-stack web applications with secure patterns | APIs, dashboards, secure auth flows, production-ready features |
+| Linux Administrator | Manage Linux environments, networking, permissions, and hardening | Reliable systems, hardened baselines, automation scripts |
+| CTF Player | Practice advanced exploitation and problem-solving under time pressure | Faster triage, improved exploit intuition, repeatable attack workflows |
 
 ---
 
-## 📊 GitHub Language Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dit-developers&layout=compact&theme=radical)
+## Offensive Security Domains
 
-## 📊 GitHub Stats
-![s](https://github-readme-stats.vercel.app/api?username=dit-developers&theme=radical)
-
----
-
-## 🔗 Connect With Me
-
-<a href="https://linkedin.com/in/muhammad-sudais-usmani-950889311"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
+- Web application security testing (OWASP Top 10 + logic flaws)
+- API security testing (auth bypass, IDOR, rate-limit, data exposure)
+- Authentication and session management weakness analysis
+- Privilege escalation path analysis (application and host level)
+- Exploitability validation and impact proofing
+- Secure-by-design recommendations for engineering teams
 
 ---
 
-## 🛠 Languages and Tools:
+## BBH Mission Control
+
+| BBH Stage | What I Execute | Outcome |
+|---|---|---|
+| Scope Intelligence | Parse scope policy, map in-scope assets, prioritize critical targets | Clear target list and risk-driven testing order |
+| Recon Expansion | Subdomain/endpoint discovery, tech fingerprinting, trust map creation | Broad visibility across exposed attack surface |
+| Deep Testing | Manual vulnerability testing on auth, business logic, access control, and API flows | High-confidence, reproducible findings |
+| Controlled Exploitation | Build PoC with minimum-risk payload to demonstrate impact | Validated severity with concrete proof |
+| Reporting and Triage Support | Write complete report with root cause and realistic remediation path | Faster program triage and acceptance rates |
+| Retest and Variant Analysis | Verify patch and probe for sibling vulnerabilities | Durable fixes and reduced repeat risk |
+
+### BBH Priority Finding Classes
+
+| Priority | Vulnerability Class | Typical Impact |
+|---|---|---|
+| P1 | Broken Access Control / IDOR | Unauthorized data access or account takeover |
+| P1 | Authentication / Session Bypass | Privilege takeover and persistent compromise |
+| P1 | High-Impact SSRF / RCE | Internal pivoting or command execution |
+| P2 | Stored / Reflected XSS in Sensitive Context | Session theft, action forgery, and user compromise |
+| P2 | Business Logic Abuse | Fraud, quota bypass, or workflow manipulation |
+| P3 | Security Misconfiguration | Increased attack surface and chained exploitation risk |
+
+---
+
+## Exploit Development Track
+
+| Track | Method | Tooling | Deliverable |
+|---|---|---|---|
+| Web Exploit Chaining | Chain multiple medium findings into critical impact path | Burp Suite, custom scripts, browser dev tools | End-to-end exploit path with reproducible steps |
+| API Exploit Development | Abuse object-level auth and weak validation in REST endpoints | Postman, Burp, jq, curl, Python | API exploit PoC with request/response evidence |
+| Local Privilege Escalation | Enumerate kernel/service/config weaknesses and pivot privileges | LinPEAS, Linux tooling, manual checks | Privilege escalation proof and hardening controls |
+| Binary Exploit Learning | Analyze low-level behavior and crash conditions in lab targets | GDB, pwndbg, objdump, checksec | Research notes and exploit development progression |
+| Exploit Reliability | Improve PoC stability and cleanup for repeatable testing | Bash/Python automation, containerized labs | Reliable exploit workflow for validation and retest |
+
+### Exploit Dev Toolkit
+<p>
+  <img src="https://img.shields.io/badge/GDB-0D1117?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB"/>
+  <img src="https://img.shields.io/badge/pwndbg-0D1117?style=for-the-badge&color=8B949E" alt="pwndbg"/>
+  <img src="https://img.shields.io/badge/objdump-0D1117?style=for-the-badge&color=8B949E" alt="objdump"/>
+  <img src="https://img.shields.io/badge/checksec-0D1117?style=for-the-badge&color=8B949E" alt="checksec"/>
+  <img src="https://img.shields.io/badge/Ghidra-0D1117?style=for-the-badge&color=8B949E" alt="Ghidra"/>
+  <img src="https://img.shields.io/badge/radare2-0D1117?style=for-the-badge&color=8B949E" alt="radare2"/>
+</p>
+
+---
+
+## Offensive Workflow (Execution Model)
+
+```mermaid
+flowchart LR
+    A[Recon and Asset Discovery] --> B[Enumeration and Mapping]
+    B --> C[Vulnerability Discovery]
+    C --> D[Exploit Validation]
+    D --> E[Impact Assessment]
+    E --> F[Reporting and Remediation]
+    F --> G[Retest and Verification]
+```
+
+### Phase Details
+
+1. Recon and asset discovery
+   - Subdomain enumeration, endpoint mapping, technology fingerprinting.
+2. Enumeration and mapping
+   - Service-level checks, auth flow mapping, trust boundary identification.
+3. Vulnerability discovery
+   - Automated and manual testing for high-confidence findings.
+4. Exploit validation
+   - Build PoC only when authorized and required for impact proof.
+5. Impact assessment
+   - Map business impact, technical severity, and attack preconditions.
+6. Reporting and remediation
+   - Clear reproduction steps + practical fixes + validation criteria.
+7. Retest and verification
+   - Confirm closure and detect related variants.
+
+---
+
+## Security Arsenal
+
+### Recon and Enumeration
+<p>
+  <img src="https://img.shields.io/badge/Nmap-004A7C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Subfinder-0D1117?style=for-the-badge&color=1F6FEB" alt="Subfinder"/>
+  <img src="https://img.shields.io/badge/Amass-0D1117?style=for-the-badge&color=1F6FEB" alt="Amass"/>
+  <img src="https://img.shields.io/badge/Gobuster-0D1117?style=for-the-badge&color=1F6FEB" alt="Gobuster"/>
+  <img src="https://img.shields.io/badge/Shodan-0D1117?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/>
+</p>
+
+### Web and Exploitation
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-0D1117?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
+  <img src="https://img.shields.io/badge/SQLMap-0D1117?style=for-the-badge&color=8B949E" alt="SQLMap"/>
+  <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&color=8B949E" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Nuclei-0D1117?style=for-the-badge&color=8B949E" alt="Nuclei"/>
+</p>
+
+### Forensics and Analysis
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Autopsy-0D1117?style=for-the-badge&color=8B949E" alt="Autopsy"/>
+  <img src="https://img.shields.io/badge/ExifTool-0D1117?style=for-the-badge&color=8B949E" alt="ExifTool"/>
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal"/>
+</p>
+
+### Password and Access Testing
+<p>
+  <img src="https://img.shields.io/badge/Hashcat-0D1117?style=for-the-badge&color=8B949E" alt="Hashcat"/>
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-0D1117?style=for-the-badge&color=8B949E" alt="John the Ripper"/>
+  <img src="https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge&color=8B949E" alt="Hydra"/>
+</p>
+
+### BBH and Platforms
+<p>
+  <img src="https://img.shields.io/badge/HackerOne-0D1117?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"/>
+  <img src="https://img.shields.io/badge/Bugcrowd-0D1117?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  <img src="https://img.shields.io/badge/PortSwigger%20Labs-0D1117?style=for-the-badge&logo=burpsuite&logoColor=white" alt="PortSwigger Labs"/>
+</p>
+
+### Tool Usage Matrix
+
+| Category | Primary Tools | Usage in Workflow |
+|---|---|---|
+| Recon and Discovery | Nmap, Subfinder, Amass, Gobuster, Shodan | Expand and prioritize attack surface |
+| Web Testing | Burp Suite, OWASP ZAP, Nuclei, Nikto | Detect and validate web vulnerabilities |
+| API Testing | Postman, Burp Repeater, curl, jq | Validate auth controls and object-level access |
+| Exploitation | Metasploit, SQLMap, custom Python/Bash PoCs | Demonstrate exploitability and impact |
+| Credential Security | Hashcat, Hydra, John the Ripper | Assess password policy and auth resilience |
+| Traffic and Forensics | Wireshark, tcpdump, Autopsy, ExifTool | Analyze network behavior and evidence artifacts |
+| OSINT and Intel | Shodan, Censys, passive DNS sources | Gather contextual intelligence for targeting |
+| Linux Operations | Bash, systemd tools, iptables, OpenSSH | Harden hosts and automate secure operations |
+| Reporting and Validation | Markdown templates, screenshots, retest scripts | Deliver clear findings and verify remediation |
+
+---
+
+## Development and Engineering Stack
+
 <p align="left">
-  <!-- Web Development -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/>
-  
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-
-  <!-- Operating Systems -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=512&id=sA3Bx9WPvcNg&format=png" alt="Parrot OS" width="40" height="40"/>
-
-  <!-- Cybersecurity & Pentesting Tools -->
-  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" width="40" height="40"/>
-  <img src="https://portswigger.net/burp/communitydownload/images/burp-pro-logo.svg" alt="BurpSuit Pro" width="180" height="40"/>
-  <img src="https://www.kali.org/tools/exploitdb/images/exploitdb-logo.svg" alt="Exploit-DB" height="40"/>
-  <img src="https://static.shodan.io/shodan-ds/img/logo.png" alt="Shodan" width="140" height="40"/>
-  <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark" width="40" height="40"/>
-  <img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" alt="WpScan" width="40" height="40"/>
-  <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="Hashcat" width="40" height="40"/>
-  <img src="https://cdn.brandfetch.io/idHnSFcYKj/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Nmap" width="40" height="40"/>
-  <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" alt="OWASP ZAP" width="40" height="40"/>
-  <img src="https://portswigger.net/burp/communitydownload/images/burp-comm-logo.svg" alt="BurpSuit Comunity" width="180" height="40"/>
-  <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="John the Ripper" width="40" height="40"/>
-  
-  <!-- Cybersecurity Platforms -->
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/tryhackme-vpbxyth62mbot3imfcpb08.png/tryhackme-anodupj9mqt3ekhc90qmo9.png" alt="TryHackMe" width="40" height="40"/>
-  <img src="https://www.bugcrowd.com/wp-content/uploads/2023/08/Bugcrowd-Logo-Wordmark-5.svg" alt="BugCrowd" width="140" height="40"/>
-  <img src="https://www.hackerone.com/themes/hacker_one/images/branding/hackerone_logo_white.png" alt="HackerOne" width="140" height="40"/>
-
-  <!-- Developer & Hosting Tools -->
-  <img src="https://www.kali.org/tools/code-oss/images/code-oss-logo.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://www.kali.org/tools/git/images/git-logo.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/217753/github.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://www.hatimeria.com/images/marketing/vercel-logo.png" alt="Vercel" width="140" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" alt="Netlify" width="140" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,python,cpp,cs,php,linux,bash,docker,git,github,redis,mysql&perline=9" alt="skills"/>
 </p>
 
+### Development Focus
+
+- Build secure MERN applications with strong auth and session controls.
+- Integrate validation, error handling, and secure defaults at API level.
+- Use Linux-first tooling and scripts to automate testing workflows.
+- Maintain developer velocity without reducing security coverage.
+
+---
+
+## Projects and Research Tracks
+
+| Project / Track | Focus Area | Status |
+|---|---|---|
+| WebDevSec Pro+ | Automated web security assessment pipeline | Ongoing |
+| Pay4XSS | Vulnerability exploitation workflow experiments | Ongoing |
+| WordPress Vulnerability Scanner | CMS-focused security testing tool | Completed |
+| BugHunter Linux | Security research Linux environment | Completed |
+| Advanced OSINT Framework | Recon and intelligence collection toolkit | Completed |
+| Custom Linux Kernel Security Track | Performance + security experimentation | Planned |
+
+---
+
+## Security and CTF Profiles
+
+[![Hackviser](https://img.shields.io/badge/Hackviser-h0x4bug-0D1117?style=for-the-badge&logo=hackthebox&logoColor=39FF14)](https://app.hackviser.com/profile/h0x4bug)
+[![Flagyard](https://img.shields.io/badge/Flagyard-Bl4ckPh4nt0m-0D1117?style=for-the-badge&logoColor=39FF14)](https://flagyard.com/profile/Bl4ckPh4nt0m)
+
+CTF focus areas:
+- Web exploitation and logic flaws
+- Enumeration speed and payload adaptation
+- Privilege escalation and lateral movement fundamentals
+- Realistic attack path chaining from low-risk to critical impact
+
+---
+
+## Certifications
+
+| Certification | Domain | Status |
+|---|---|---|
+| CEH | Ethical Hacking and Offensive Security | Achieved |
+| CCEP - Certified Cybersecurity Educator Professional | Security Education and Knowledge Transfer | Achieved |
+| ISO/IEC 27001 | Information Security Management | Achieved |
+| AWS Security Incident Response | Cloud Incident Handling | Achieved |
+| CAPenX (Mock) | Application Penetration Testing | Achieved |
+| CRPO - Certified Ransomware Protection Officer | Ransomware Defense and Response | Achieved |
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dit-developers&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=dit-developers&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dit-developers&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=dit-developers&theme=matrix&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dit-developers&bg_color=000000&color=39ff14&line=00ff00&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Sudais%20Usmani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-sudais-usmani-950889311)
+[![Medium](https://img.shields.io/badge/Medium-@msusuport-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@msusuport)
+[![Instagram](https://img.shields.io/badge/Instagram-@usmanisudais-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/usmanisudais/)
+
+---
+
+## Ethics and Authorization Policy
+
+All offensive security activities are performed only in authorized environments and within legal boundaries. Any testing, exploit development, or simulation work is conducted for defensive improvement, security validation, and risk reduction.
